@@ -40,7 +40,7 @@ Diversidad de linajes en los barrios vulnerables.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 3 -->
-# [Argentina Barrios](https://nextstrain.org/community/lorenzefe/ncov_argentina?d=map&f_location=M100,M103,M105,M108,M111,M112,M115,M13,M18,M21,M22,M24,M46,M5&p=full&r=location)
+# [Argentina Barrios](https://nextstrain.org/community/lorenzefe/ncov_argentina?d=map&f_location=M100,M103,M105,M108,M111,M112,M115,M13,M18,M21,M22,M24,M46,M5&r=location)
 
 <!-- This is the left-side text -->
 Mugica. Manzanas.
