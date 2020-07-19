@@ -37,7 +37,7 @@ Los primeros casos en Sudamérica ocurrieron a comienzos de marzo por la llegada
 <!-- This is the left-side text -->
 Gracias a la colaboración y trabajo de distintos grupos, Argentina cuenta con secuencias de distintas provincias. 
 
-[http://pais.qb.fcen.uba.ar/](google.com)!
+[http://pais.qb.fcen.uba.ar/].
 Diversidad de linajes en los barrios vulnerables.
 
 <!-- This is right-side text -->
