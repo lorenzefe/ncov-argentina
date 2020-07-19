@@ -40,6 +40,16 @@ Gracias a la colaboración y trabajo de distintos grupos, Argentina cuenta con s
 [http://pais.qb.fcen.uba.ar/].
 Diversidad de linajes en los barrios vulnerables.
 
+<!-- ############ SLIDE BREAK ############# -->
+<!-- SLIDE 3 -->
+# [Argentina Provincias ](https://nextstrain.org/community/lorenzefe/ncov_argentinaf_location=M100,M103,M105,M108,M111,M112,M115,M13,M18,M21,M22,M24,M46,M5&r=location)
+
+<!-- This is the left-side text -->
+Gracias a la colaboración y trabajo de distintos grupos, Argentina cuenta con secuencias de distintas provincias. 
+
+[http://pais.qb.fcen.uba.ar/].
+Diversidad de linajes en los barrios vulnerables.
+
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # Example using markdown for the right side  
