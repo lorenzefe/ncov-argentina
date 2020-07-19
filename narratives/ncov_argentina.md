@@ -23,7 +23,7 @@ abstract: "SARS-CoV-2 en Argentina. La visión desde el INEI."
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 1 -->
 <!--  Each slide MUST start with a link to a specific view of the dataset (must match the `dataset` specified above) -->
-# [Latinoamérica](https://nextstrain.org/community/lorenzefe/ncov_argentina?d=map&p=full&transmissions=hide)
+# [Latinoamérica](https://nextstrain.org/community/lorenzefe/ncov_argentina?d=map&p=full&transmissions=hide).
 
 <!-- This is left-side text -->
 Los primeros casos en Sudamérica ocurrieron a comienzos de marzo por la llegada de viajeros de zonas afectadas. Distintos países secuenciaron coronavirus. 
@@ -32,7 +32,7 @@ Los primeros casos en Sudamérica ocurrieron a comienzos de marzo por la llegada
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 2 -->
-# [Argentina Provincias](https://nextstrain.org/community/lorenzefe/ncov_argentina?c=division&d=map&p=full&transmissions=hide)
+# [Argentina Provincias](https://nextstrain.org/community/lorenzefe/ncov_argentina?c=division&d=map&p=full&transmissions=hide).
 
 <!-- This is the left-side text -->
 Gracias a la colaboración y trabajo de distintos grupos, Argentina cuenta con secuencias de distintas provincias. 
@@ -42,7 +42,7 @@ Diversidad de linajes en los barrios vulnerables.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 3 -->
-# [Argentina Barrios](https://nextstrain.org/community/lorenzefe/ncov_argentina?d=map&f_location=M100,M103,M105,M108,M111,M112,M115,M13,M18,M21,M22,M24,M46,M5&p=full&r=location)
+# [Argentina Barrios](https://nextstrain.org/community/lorenzefe/ncov_argentina?d=map&f_location=M100,M103,M105,M108,M111,M112,M115,M13,M18,M21,M22,M24,M46,M5&p=full&r=location).
 
 <!-- This is the left-side text -->
 Mugica. Manzanas.
