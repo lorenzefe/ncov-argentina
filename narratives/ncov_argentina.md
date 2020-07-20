@@ -32,7 +32,7 @@ Los primeros casos en Sudamérica ocurrieron a comienzos de marzo por la llegada
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 2 -->
-# [Argentina Provincias](https://nextstrain.org/community/lorenzefe/ncov_argentina?c=division&d=map&p=full&transmissions=hide)
+# [Argentina Provincias](https://nextstrain.org/community/lorenzefe/ncov_argentina?c=division&d=map&f_country=Argentina&p=full&r=division&transmissions=hide)
 
 <!-- This is the left-side text -->
 Gracias a la colaboración y trabajo de distintos grupos, Argentina cuenta con secuencias de distintas provincias. 
@@ -40,7 +40,7 @@ Diversidad de linajes en los barrios vulnerables.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 3 -->
-# [Argentina Barrios](https://nextstrain.org/community/lorenzefe/ncov_argentina?d=map&f_location=M100,M103,M105,M108,M111,M112,M115,M13,M18,M21,M22,M24,M46,M5&r=location)
+# [Argentina Barrios](https://nextstrain.org/community/lorenzefe/ncov_argentina?c=pangolin_lineage&d=map&f_country=Argentina&f_division=Ciudad%20Autonoma%20de%20Buenos%20Aires&f_location=M1,M10,M100,M103,M105,M108,M111,M112,M115,M13,M18,M21,M22,M24,M28,M35,M46,M5,M7,M9,M99,R1,R10,R11,R13,R24,R25,R29,Z15,Z3&p=full&r=location&transmissions=hide)
 
 <!-- This is the left-side text -->
 Mugica. Manzanas.
